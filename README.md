@@ -67,32 +67,17 @@ Welcome to my GitHub profile! I'm an AI Engineer with a passion for building inn
 
 ---
 
-## 📫 Connect with Me
-
-- [LinkedIn]([https://www.linkedin.com/in/zubairali](https://www.linkedin.com/in/zubair-ali-2a09702b4)) | [Email](mailto:zs970120@gmail.com) | [GitHub](https://github.com/ZubairZubii)
-
----
-
----
-
-<div align="center">
-  <img src="https://via.placeholder.com/1200x100.png?text=Thank+You+for+Visiting+My+Profile!" alt="Thank You for Visiting My Profile!" style="border-radius: 10px;"/>
-</div>
 
 <div align="center">
   <p style="font-size: 14px; color: #555;">
     Made with ❤️ by Zubair Ali<br>
-    Connect with me on:
-    <a href="https://www.linkedin.com/in/zubairali" target="_blank">LinkedIn</a> |
+    ## 📫 Connect with Me
+    <a href="https://www.linkedin.com/in/zubair-ali-2a09702b4" target="_blank">LinkedIn</a> |
     <a href="mailto:zs970120@gmail.com">Email</a> |
     <a href="https://github.com/ZubairZubii">GitHub</a>
   </p>
 </div>
 
-<div align="center">
-  ![GitHub followers](https://img.shields.io/github/followers/ZubairZubii.svg?style=social&label=Follow&maxAge=2592000)
-  ![Visitors](https://visitor-badge.glitch.me/badge?page_id=ZubairZubii.ZubairZubii&left_color=red&right_color=green)
-</div>
 
 ---
 
