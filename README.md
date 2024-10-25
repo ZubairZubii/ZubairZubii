@@ -71,7 +71,7 @@ Welcome to my GitHub profile! I'm an AI Engineer with a passion for building inn
 <div align="center">
   <p style="font-size: 14px; color: #555;">
     Made with ❤️ by Zubair Ali<br>
-    ## 📫 Connect with Me
+   📫 Connect with Me
     <a href="https://www.linkedin.com/in/zubair-ali-2a09702b4" target="_blank">LinkedIn</a> |
     <a href="mailto:zs970120@gmail.com">Email</a> |
     <a href="https://github.com/ZubairZubii">GitHub</a>
@@ -81,7 +81,4 @@ Welcome to my GitHub profile! I'm an AI Engineer with a passion for building inn
 
 ---
 
-
----
-
-### Feel free to explore my repositories and connect with me for collaboration or inquiries! 
+# Feel free to explore my repositories and connect with me for collaboration or inquiries! 
