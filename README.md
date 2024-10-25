@@ -48,9 +48,9 @@ Welcome to my GitHub profile! I'm an AI Engineer with a passion for building inn
 
 ## 🎓 Certifications
 
-![simple_learn_certificate_ML.pdf](https://github.com/user-attachments/files/17523320/simple_learn_certificate_ML.pdf)
+![simpli_learn](https://github.com/user-attachments/assets/cb1d2cfb-ffab-4374-bb90-aa94d44d1280)
 
- 
+--- 
   
 ![Prompt Design in Vertex AI](https://github.com/user-attachments/assets/acab568b-b37a-486e-b3cd-6dbdcac95e27) - Google Cloud
 
