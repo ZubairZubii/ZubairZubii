@@ -2,7 +2,8 @@
 
 Welcome to my GitHub profile! I'm an AI Engineer with a passion for building innovative and efficient solutions. I specialize in various machine learning techniques and am always eager to learn and explore new technologies. 🌟
 
-![git_banner](https://github.com/user-attachments/assets/87a232a4-79ed-4bb3-a9e9-9fec1cee1c41)
+![1695037098693](https://github.com/user-attachments/assets/efa6ea5d-382b-46e5-b451-f86c3d1c337f)
+
 
 ---
 
