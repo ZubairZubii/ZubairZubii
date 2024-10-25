@@ -40,10 +40,6 @@ Welcome to my GitHub profile! I'm an AI Engineer with a passion for building inn
 - Developed and deployed machine learning models for various applications.
 - Collaborated with cross-functional teams to enhance project outcomes.
 
-### AI Intern | [Previous Company Name]
-*June 2021 - September 2022*
-- Assisted in the development of AI-based solutions for real-world problems.
-- Participated in team meetings and contributed to project brainstorming sessions.
 
 ---
 
