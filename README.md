@@ -48,7 +48,7 @@ Welcome to my GitHub profile! I'm an AI Engineer with a passion for building inn
 
 ## 🎓 Certifications
 
-[simple_learn_certificate_ML.pdf](https://github.com/user-attachments/files/17523320/simple_learn_certificate_ML.pdf)
+![simple_learn_certificate_ML.pdf](https://github.com/user-attachments/files/17523320/simple_learn_certificate_ML.pdf)
 
  
   
