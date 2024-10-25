@@ -52,7 +52,8 @@ Welcome to my GitHub profile! I'm an AI Engineer with a passion for building inn
 
 --- 
   
-![Prompt Design in Vertex AI](https://github.com/user-attachments/assets/acab568b-b37a-486e-b3cd-6dbdcac95e27) - Google Cloud
+![vertex_ai](https://github.com/user-attachments/assets/5eca6e6b-6e84-4e1a-b522-3a5b170f7130)
+
 
 
 ---
