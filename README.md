@@ -26,10 +26,10 @@ Here's the updated section with the **MERN stack** included in your expertise:
 - ![Flask](https://img.shields.io/badge/Flask%20-%23000000?style=flat-square&logo=flask&logoColor=white)
 - ![Django](https://img.shields.io/badge/Django%20-%0A0A3A3D?style=flat-square&logo=django&logoColor=white)
 - **MERN Stack:**
-  - ![MongoDB](https://img.shields.io/badge/MongoDB%2347A248?style=flat-square&logo=mongodb&logoColor=white)
-  - ![Express.js](https://img.shields.io/badge/Express.js%23000000?style=flat-square&logo=express&logoColor=white)
-  - ![React](https://img.shields.io/badge/React%2361DAFB?style=flat-square&logo=react&logoColor=white)
-  - ![Node.js](https://img.shields.io/badge/Node.js%23339933?style=flat-square&logo=node.js&logoColor=white)
+  - ![MongoDB](https://img.shields.io/badge/MongoDB-4.4-%2347A248?style=flat-square&logo=mongodb&logoColor=white)
+  - ![Express.js](https://img.shields.io/badge/Express.js-4.17-%23000000?style=flat-square&logo=express&logoColor=white)
+  - ![React](https://img.shields.io/badge/React-17.0-%2361DAFB?style=flat-square&logo=react&logoColor=white)
+  - ![Node.js](https://img.shields.io/badge/Node.js-14.16-%23339933?style=flat-square&logo=node.js&logoColor=white)
 
 ### Cloud & DevOps:
 - ![AWS](https://img.shields.io/badge/AWS-3D7EAA?style=flat-square&logo=amazonaws&logoColor=white)
