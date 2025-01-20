@@ -7,6 +7,10 @@ Welcome to my GitHub profile! I'm an AI Engineer with a passion for building inn
 
 ---
 
+Here's the updated section with the **MERN stack** included in your expertise:
+
+---
+
 ## 🚀 Skills & Technologies
 
 ### Languages:
@@ -21,6 +25,11 @@ Welcome to my GitHub profile! I'm an AI Engineer with a passion for building inn
 - ![PyTorch](https://img.shields.io/badge/PyTorch-1.9%20-%23EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 - ![Flask](https://img.shields.io/badge/Flask-2.0%20-%23000000?style=flat-square&logo=flask&logoColor=white)
 - ![Django](https://img.shields.io/badge/Django-3.2%20-%0A0A3A3D?style=flat-square&logo=django&logoColor=white)
+- **MERN Stack:**
+  - ![MongoDB](https://img.shields.io/badge/MongoDB-4.4-%2347A248?style=flat-square&logo=mongodb&logoColor=white)
+  - ![Express.js](https://img.shields.io/badge/Express.js-4.17-%23000000?style=flat-square&logo=express&logoColor=white)
+  - ![React](https://img.shields.io/badge/React-17.0-%2361DAFB?style=flat-square&logo=react&logoColor=white)
+  - ![Node.js](https://img.shields.io/badge/Node.js-14.16-%23339933?style=flat-square&logo=node.js&logoColor=white)
 
 ### Cloud & DevOps:
 - ![AWS](https://img.shields.io/badge/AWS-3D7EAA?style=flat-square&logo=amazonaws&logoColor=white)
@@ -31,6 +40,9 @@ Welcome to my GitHub profile! I'm an AI Engineer with a passion for building inn
 - ![MySQL](https://img.shields.io/badge/MySQL-005C4B?style=flat-square&logo=mysql&logoColor=white)
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
+---
+
+Let me know if you'd like any further tweaks or additions! 😊
 ---
 
 ## 💼 Experience
