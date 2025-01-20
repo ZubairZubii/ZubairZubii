@@ -17,7 +17,7 @@ Here's the updated section with the **MERN stack** included in your expertise:
 - ![Python](https://img.shields.io/badge/Python%20-%233776AB?style=flat-square&logo=python&logoColor=white)
 - ![Java](https://img.shields.io/badge/Java%20-%23E9C453?style=flat-square&logo=java&logoColor=white)
 - ![R](https://img.shields.io/badge/R%20-%23A8B400?style=flat-square&logo=R&logoColor=white)
-- ![C++](https://img.shields.io/badge/C%2B%2B-11%20-%2300599C?style=flat-square&logo=cplusplus&logoColor=white)
+- ![C++](https://img.shields.io/badge/C%2B%2B-%20-%2300599C?style=flat-square&logo=cplusplus&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-ES6%20-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ### Frameworks & Libraries:
